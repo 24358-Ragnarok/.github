@@ -1,6 +1,6 @@
-# 24358 Ragnarok 🔥
+# 24358 Metallum Ultorum 🔥
 
-We are **Ragnarok**, an FTC Robotics team based out of **Waukee, Iowa**. We are both the Ragnarok team and the Waukee Northwest Robotics Club, driven by the mission to revolutionize STEM technology and make it accessible to learners of all ages.
+We are **Metallum Ultorum**, an FTC Robotics team based out of **Waukee, Iowa**. We are both the Metallum Ultorum team and the Waukee Northwest Robotics Club, driven by the mission to revolutionize STEM technology and make it accessible to learners of all ages.
 
 ## Our Mission 🌟  
 We strive to push the boundaries of robotics and empower people to explore, learn, and innovate within STEM fields. By competing in the **FIRST Tech Challenge (FTC)**, we gain hands-on experience in designing, programming, and problem-solving with cutting-edge technologies.
